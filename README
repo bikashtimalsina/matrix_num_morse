@@ -1,1 +1,1 @@
-Generalized 1D matrix numerov method for morse potential. This Schrodinger solver is for order upto 4th term.
+Generalized 1D matrix numerov method for morse potential. This Schrodinger solver is for order upto 4th term. The code is built on BLAS and LAPACK libraries so these libraries are need and be installed before compiling the code.
